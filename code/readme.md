@@ -4,4 +4,5 @@ Codes should be run in the following order:
 3. `script.run` (generated from Step 1) should be run within AMPL to generate output log files.  
 4. `csvGen.py` generates output .csv files that re-organizes all log files of a single graph size.  
 5. `analysisPlots.py` generates statistics and plots from the .csv files generated from Step 4.  
+
 Running outside the intended order may not generate the necessary statistics/plots, so please proceed with care.
