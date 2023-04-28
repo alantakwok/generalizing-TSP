@@ -1,0 +1,19 @@
+CPLEX 20.1.0.0: optimal integer solution; objective 81
+233 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 16:15:24 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 77
+213 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 16:15:25 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 85
+149 MIP simplex iterations
+0 branch-and-bound nodes
+CPLEX 20.1.0.0: optimal integer solution; objective 77
+181 MIP simplex iterations
+0 branch-and-bound nodes
+CPLEX 20.1.0.0: optimal integer solution; objective 88
+197 MIP simplex iterations
+0 branch-and-bound nodes
