@@ -8,4 +8,4 @@ The project report found in this repository details solving this generalization 
 Multiple README files are placed in different directories of the repository that indicate the types of files used for the project and how to properly use the codes/models to replicate results.  
 I intend on adding PYOMO model files sometime in the near future.
 ## Integrity of results
-Results from the project report may not exactly match with results from your personal investigations; this would not be a rare occurence considering that the sample size used for the project is not large; though I do expect project report results to provide a decent estimate on what your results would look like.
+Results from the project report should provide a decent estimate on what results from personal investigations would look like. If there are any new findings on results, please feel free to mention them through the use of the Issues feature in GitHub!
