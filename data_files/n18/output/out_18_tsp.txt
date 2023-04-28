@@ -1,0 +1,280 @@
+ctime() = 'Mon Apr 24 23:14:38 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 101
+21 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:15:25 2023'
+
+ctime() = 'Mon Apr 24 23:15:25 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 81
+33 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:16:12 2023'
+
+ctime() = 'Mon Apr 24 23:16:12 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 92
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:16:57 2023'
+
+ctime() = 'Mon Apr 24 23:16:58 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 62
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:17:51 2023'
+
+ctime() = 'Mon Apr 24 23:17:51 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 66
+69 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:18:54 2023'
+
+ctime() = 'Mon Apr 24 23:18:55 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 87
+97 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:19:44 2023'
+
+ctime() = 'Mon Apr 24 23:19:44 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 83
+59 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:20:32 2023'
+
+ctime() = 'Mon Apr 24 23:20:33 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 93
+23 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:21:18 2023'
+
+ctime() = 'Mon Apr 24 23:21:18 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 74
+63 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:22:05 2023'
+
+ctime() = 'Mon Apr 24 23:22:05 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 78
+23 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:22:49 2023'
+
+ctime() = 'Mon Apr 24 23:22:49 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 83
+24 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:23:35 2023'
+
+ctime() = 'Mon Apr 24 23:23:36 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 82
+24 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:24:27 2023'
+
+ctime() = 'Mon Apr 24 23:24:28 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 85
+40 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:25:16 2023'
+
+ctime() = 'Mon Apr 24 23:25:16 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 83
+26 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:26:04 2023'
+
+ctime() = 'Mon Apr 24 23:26:04 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 76
+61 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:26:51 2023'
+
+ctime() = 'Mon Apr 24 23:26:52 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 106
+34 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:27:38 2023'
+
+ctime() = 'Mon Apr 24 23:27:38 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 95
+60 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:28:33 2023'
+
+ctime() = 'Mon Apr 24 23:28:33 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 72
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:29:24 2023'
+
+ctime() = 'Mon Apr 24 23:29:25 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 87
+27 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:30:12 2023'
+
+ctime() = 'Mon Apr 24 23:30:13 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+31 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:31:00 2023'
+
+ctime() = 'Mon Apr 24 23:31:00 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 89
+55 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:31:47 2023'
+
+ctime() = 'Mon Apr 24 23:31:47 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 70
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:32:30 2023'
+
+ctime() = 'Mon Apr 24 23:32:30 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 89
+24 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:33:19 2023'
+
+ctime() = 'Mon Apr 24 23:33:19 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 75
+68 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:34:04 2023'
+
+ctime() = 'Mon Apr 24 23:34:04 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 81
+61 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:34:51 2023'
+
+ctime() = 'Mon Apr 24 23:34:51 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 93
+73 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:35:34 2023'
+
+ctime() = 'Mon Apr 24 23:35:35 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 81
+31 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:36:21 2023'
+
+ctime() = 'Mon Apr 24 23:36:22 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 66
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:37:08 2023'
+
+ctime() = 'Mon Apr 24 23:37:08 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 72
+55 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:37:53 2023'
+
+ctime() = 'Mon Apr 24 23:37:54 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 68
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:38:46 2023'
+
+ctime() = 'Mon Apr 24 23:38:46 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 90
+29 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:39:35 2023'
+
+ctime() = 'Mon Apr 24 23:39:36 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 86
+55 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:40:23 2023'
+
+ctime() = 'Mon Apr 24 23:40:23 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 84
+63 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:41:08 2023'
+
+ctime() = 'Mon Apr 24 23:41:09 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 94
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:41:56 2023'
+
+ctime() = 'Mon Apr 24 23:41:56 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 83
+25 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:42:44 2023'
+
+ctime() = 'Mon Apr 24 23:42:44 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 60
+64 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:43:35 2023'
+
+ctime() = 'Mon Apr 24 23:43:36 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 82
+23 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:44:18 2023'
+
+ctime() = 'Mon Apr 24 23:44:18 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 91
+29 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:45:16 2023'
+
+ctime() = 'Mon Apr 24 23:45:16 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 95
+25 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:46:03 2023'
+
+ctime() = 'Mon Apr 24 23:46:03 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 89
+59 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Mon Apr 24 23:46:52 2023'
+
