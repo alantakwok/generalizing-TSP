@@ -1,0 +1,700 @@
+ctime() = 'Tue Apr 25 15:26:07 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 67
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:08 2023'
+
+ctime() = 'Tue Apr 25 15:26:08 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:09 2023'
+
+ctime() = 'Tue Apr 25 15:26:10 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+18 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:11 2023'
+
+ctime() = 'Tue Apr 25 15:26:11 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 63
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:12 2023'
+
+ctime() = 'Tue Apr 25 15:26:12 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:13 2023'
+
+ctime() = 'Tue Apr 25 15:26:13 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:14 2023'
+
+ctime() = 'Tue Apr 25 15:26:14 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 77
+18 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:16 2023'
+
+ctime() = 'Tue Apr 25 15:26:16 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 75
+25 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:17 2023'
+
+ctime() = 'Tue Apr 25 15:26:17 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 52
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:18 2023'
+
+ctime() = 'Tue Apr 25 15:26:18 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+21 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:19 2023'
+
+ctime() = 'Tue Apr 25 15:26:19 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 68
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:21 2023'
+
+ctime() = 'Tue Apr 25 15:26:21 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 55
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:22 2023'
+
+ctime() = 'Tue Apr 25 15:26:22 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 74
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:23 2023'
+
+ctime() = 'Tue Apr 25 15:26:23 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 84
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:24 2023'
+
+ctime() = 'Tue Apr 25 15:26:24 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 66
+23 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:25 2023'
+
+ctime() = 'Tue Apr 25 15:26:25 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 56
+9 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:27 2023'
+
+ctime() = 'Tue Apr 25 15:26:27 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 72
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:28 2023'
+
+ctime() = 'Tue Apr 25 15:26:28 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 72
+37 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:29 2023'
+
+ctime() = 'Tue Apr 25 15:26:29 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 70
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:31 2023'
+
+ctime() = 'Tue Apr 25 15:26:31 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 58
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:32 2023'
+
+ctime() = 'Tue Apr 25 15:26:32 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 82
+8 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:33 2023'
+
+ctime() = 'Tue Apr 25 15:26:33 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 74
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:34 2023'
+
+ctime() = 'Tue Apr 25 15:26:34 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 58
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:36 2023'
+
+ctime() = 'Tue Apr 25 15:26:36 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 62
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:37 2023'
+
+ctime() = 'Tue Apr 25 15:26:37 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 59
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:38 2023'
+
+ctime() = 'Tue Apr 25 15:26:38 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 54
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:39 2023'
+
+ctime() = 'Tue Apr 25 15:26:39 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 56
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:40 2023'
+
+ctime() = 'Tue Apr 25 15:26:40 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 61
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:42 2023'
+
+ctime() = 'Tue Apr 25 15:26:42 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 69
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:43 2023'
+
+ctime() = 'Tue Apr 25 15:26:43 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 70
+21 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:44 2023'
+
+ctime() = 'Tue Apr 25 15:26:44 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 54
+6 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:45 2023'
+
+ctime() = 'Tue Apr 25 15:26:45 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+18 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:46 2023'
+
+ctime() = 'Tue Apr 25 15:26:46 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+21 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:48 2023'
+
+ctime() = 'Tue Apr 25 15:26:48 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 73
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:49 2023'
+
+ctime() = 'Tue Apr 25 15:26:49 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 58
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:50 2023'
+
+ctime() = 'Tue Apr 25 15:26:50 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 69
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:51 2023'
+
+ctime() = 'Tue Apr 25 15:26:51 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:53 2023'
+
+ctime() = 'Tue Apr 25 15:26:53 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:54 2023'
+
+ctime() = 'Tue Apr 25 15:26:54 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 68
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:55 2023'
+
+ctime() = 'Tue Apr 25 15:26:55 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:56 2023'
+
+ctime() = 'Tue Apr 25 15:26:56 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 77
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:58 2023'
+
+ctime() = 'Tue Apr 25 15:26:58 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 78
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:26:59 2023'
+
+ctime() = 'Tue Apr 25 15:26:59 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 74
+24 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:00 2023'
+
+ctime() = 'Tue Apr 25 15:27:00 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 70
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:01 2023'
+
+ctime() = 'Tue Apr 25 15:27:01 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+13 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:02 2023'
+
+ctime() = 'Tue Apr 25 15:27:02 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 72
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:04 2023'
+
+ctime() = 'Tue Apr 25 15:27:04 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+29 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:05 2023'
+
+ctime() = 'Tue Apr 25 15:27:05 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 59
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:06 2023'
+
+ctime() = 'Tue Apr 25 15:27:06 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 69
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:07 2023'
+
+ctime() = 'Tue Apr 25 15:27:07 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 74
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:08 2023'
+
+ctime() = 'Tue Apr 25 15:27:08 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 55
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:10 2023'
+
+ctime() = 'Tue Apr 25 15:27:10 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 68
+27 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:11 2023'
+
+ctime() = 'Tue Apr 25 15:27:11 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 49
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:12 2023'
+
+ctime() = 'Tue Apr 25 15:27:12 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 73
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:13 2023'
+
+ctime() = 'Tue Apr 25 15:27:13 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:14 2023'
+
+ctime() = 'Tue Apr 25 15:27:14 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 45
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:16 2023'
+
+ctime() = 'Tue Apr 25 15:27:16 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 69
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:17 2023'
+
+ctime() = 'Tue Apr 25 15:27:17 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 57
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:18 2023'
+
+ctime() = 'Tue Apr 25 15:27:18 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:19 2023'
+
+ctime() = 'Tue Apr 25 15:27:19 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 62
+21 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:20 2023'
+
+ctime() = 'Tue Apr 25 15:27:20 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 80
+31 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:22 2023'
+
+ctime() = 'Tue Apr 25 15:27:22 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 84
+13 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:23 2023'
+
+ctime() = 'Tue Apr 25 15:27:23 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 84
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:24 2023'
+
+ctime() = 'Tue Apr 25 15:27:24 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 67
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:25 2023'
+
+ctime() = 'Tue Apr 25 15:27:25 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 66
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:27 2023'
+
+ctime() = 'Tue Apr 25 15:27:27 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 55
+45 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:28 2023'
+
+ctime() = 'Tue Apr 25 15:27:28 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 80
+8 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:29 2023'
+
+ctime() = 'Tue Apr 25 15:27:29 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 41
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:30 2023'
+
+ctime() = 'Tue Apr 25 15:27:30 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 94
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:32 2023'
+
+ctime() = 'Tue Apr 25 15:27:32 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 99
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:33 2023'
+
+ctime() = 'Tue Apr 25 15:27:33 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 45
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:34 2023'
+
+ctime() = 'Tue Apr 25 15:27:34 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 61
+18 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:35 2023'
+
+ctime() = 'Tue Apr 25 15:27:35 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 69
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:37 2023'
+
+ctime() = 'Tue Apr 25 15:27:37 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 85
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:38 2023'
+
+ctime() = 'Tue Apr 25 15:27:38 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 57
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:39 2023'
+
+ctime() = 'Tue Apr 25 15:27:39 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 48
+9 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:40 2023'
+
+ctime() = 'Tue Apr 25 15:27:40 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 57
+12 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:42 2023'
+
+ctime() = 'Tue Apr 25 15:27:42 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 60
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:43 2023'
+
+ctime() = 'Tue Apr 25 15:27:43 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 82
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:44 2023'
+
+ctime() = 'Tue Apr 25 15:27:44 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 51
+7 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:45 2023'
+
+ctime() = 'Tue Apr 25 15:27:45 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 82
+8 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:46 2023'
+
+ctime() = 'Tue Apr 25 15:27:46 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 77
+10 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:47 2023'
+
+ctime() = 'Tue Apr 25 15:27:47 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+23 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:49 2023'
+
+ctime() = 'Tue Apr 25 15:27:49 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 97
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:50 2023'
+
+ctime() = 'Tue Apr 25 15:27:50 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:51 2023'
+
+ctime() = 'Tue Apr 25 15:27:51 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 76
+13 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:52 2023'
+
+ctime() = 'Tue Apr 25 15:27:52 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+18 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:54 2023'
+
+ctime() = 'Tue Apr 25 15:27:54 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+20 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:55 2023'
+
+ctime() = 'Tue Apr 25 15:27:55 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 66
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:56 2023'
+
+ctime() = 'Tue Apr 25 15:27:56 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 54
+26 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:57 2023'
+
+ctime() = 'Tue Apr 25 15:27:57 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 71
+14 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:27:59 2023'
+
+ctime() = 'Tue Apr 25 15:27:59 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+19 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:00 2023'
+
+ctime() = 'Tue Apr 25 15:28:00 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:01 2023'
+
+ctime() = 'Tue Apr 25 15:28:01 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 65
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:02 2023'
+
+ctime() = 'Tue Apr 25 15:28:02 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 50
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:03 2023'
+
+ctime() = 'Tue Apr 25 15:28:03 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 70
+17 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:05 2023'
+
+ctime() = 'Tue Apr 25 15:28:05 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 64
+15 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:06 2023'
+
+ctime() = 'Tue Apr 25 15:28:06 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 75
+24 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:07 2023'
+
+ctime() = 'Tue Apr 25 15:28:07 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 78
+22 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:08 2023'
+
+ctime() = 'Tue Apr 25 15:28:08 2023'
+
+CPLEX 20.1.0.0: optimal integer solution; objective 73
+16 MIP simplex iterations
+0 branch-and-bound nodes
+ctime() = 'Tue Apr 25 15:28:09 2023'
+
