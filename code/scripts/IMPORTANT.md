@@ -1,1 +1,1 @@
-AMPL scripts will be generated in this folder, so please do not delete this.
+AMPL scripts will be generated in this folder, so please DO NOT delete this.
